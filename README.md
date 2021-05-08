@@ -13,7 +13,7 @@ The [Afterzip](http://multipetros.gr/afterzip) is a desktop program (uses Java S
 Afterzip is written in Java, so [JVM](http://www.java.com) ver 1.5 and above must be installed at your system.
 
 ## Screenshot
-![Screenshot](https://github.com/multipetros/afterzip/raw/main/.github/screenshot-split-en-1.2.png)
+![Screenshot](https://raw.githubusercontent.com/multipetros/afterzip/master/.github/screenshot-split-en-1.2.png)
 
 ## Running
 You can run Afterzip from your desktop by clicking on `afterzip.jar` if you have associated jar files with java runner, or you can start Afterzip from the console giving `javaw -jar Afterzip.jar`
@@ -48,7 +48,7 @@ If you think that this program is helpful for you and you are willing to support
 Το Afterzip είναι γραμμένο σε Java, έτσι η [JVM](http://www.java.com) έκδοσης 1.5 και μεταγενέστερη θα πρέπει να βρείσκεται εγκατεστημένη στο σύστημά σας.
 
 ## Στιγμιότυπο οθόνης
-![Στιγμιότυπο](https://github.com/multipetros/afterzip/raw/main/.github/screenshot-split-el-1.2.png)
+![Στιγμιότυπο](https://raw.githubusercontent.com/multipetros/afterzip/master/.github/screenshot-split-el-1.2.png)
 
 ## Εκτέλεση
 Μπορείτε να τρέξετε το Afterzip από την επιφάνεια εργασίας σας, κάνοντας κλικ στο αρχείο `afterzip.jar` εάν έχετε συσχετίσει τα αρχεία jar με το περιβάλλον εκτέλεσης της Java. Μπορείτε επίσης να εκκινήσετε το Afterzip από την κονσόλα του συστήματός σας δίνοντας `javaw -jar Afterzip.jar`
